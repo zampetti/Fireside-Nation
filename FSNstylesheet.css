@@ -1,0 +1,179 @@
+body {
+    font-family: tahoma;
+}
+
+.headImg {
+    color: rgb(0,30,80);
+    background: url("Images/History_Speeches_1145_FDR_Banking_Crisis_still_624x352.jpg") no-repeat top center fixed;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.top-left {
+    position: absolute;
+    top: 500px;
+    left: 5%;
+    font-size: 800%;
+    font-family: garamond;
+    font-variant: small-caps;
+}
+
+header {
+    width: 100%;
+    margin: auto;
+}
+
+#mainnav {
+    display: block;
+    background-color: rgb(0,30,80);
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    font-size: large;
+    color: white;
+    text-align: center;
+    padding: 5% 0;
+}
+
+#mainnav a {    
+    padding: 5%;
+    color: white;
+    width: 25%;
+}
+
+#mainnav a:hover {
+    background-color: #ddd;
+    color: rgb(0,30,80);
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#content {
+    width: 65%;
+    margin: 70px 20px;
+    float: left;
+}
+
+#content h1 {
+    margin: 0px;
+    padding-top: 50px;
+    font-size: x-large;
+    color: black;
+    border-bottom: 2px solid black;
+}
+
+#project {
+    margin-left: 5%;
+}
+
+#process {
+    margin: 5% 3%;
+}
+
+aside#reserved {
+    width: 20%;
+    margin: 100px 5% 0 0;
+    display: block;
+    float: right;
+    background-color: #eee;
+    border: 3px solid #ccf;
+}
+
+aside#reserved div {
+    padding: 5px;
+    font-size: small;
+}
+
+aside#reserved h2 {
+    margin-bottom: 0px;
+    font-size: x-large;
+    color: black;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+aside#reserved h3 {
+    margin-bottom: 0px;
+    font-size: large;
+    color: black;
+}
+
+#blogContent {
+    width: 70%;
+    margin: 100px 50px;
+    float: left;
+}
+
+#blogContent .excerpt {
+    width: 800px;
+}
+
+
+#blogContent .excerpt #Trump1 {
+    float: right;
+    margin: 2%;
+}
+
+#blogContent .excerpt #ProfitOverPeople {
+    float: left;
+    margin: 2%;
+}
+
+#podcastContent {
+    width: 70%;
+    float: left;
+    margin: 10% 0 0 5%;
+    border-bottom: 2px solid rgb(0,30,80);
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    background-color: rgb(0,30,80);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

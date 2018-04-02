@@ -1,0 +1,35 @@
+div#wrapper {
+    width: 70%;
+    border: 10px solid rgb(0,30,80);
+    margin: 10% auto; 
+    padding: 2%;
+}
+
+td {    
+    width: 40%;
+    margin: auto;
+    padding: 5%;
+    border-bottom: 1px solid black;
+}
+
+td#aboutYou {
+    border: none;
+}
+
+dl dt {
+    margin: 2%;
+}
+
+.modal {
+    margin-top: 20%;
+}
+
+.checked, .checked2, .checked3 {
+    color: limegreen;
+    margin-left: 2%;
+}
+
+input#submit {
+    width: 50%;
+    margin-left: 25%;
+}
